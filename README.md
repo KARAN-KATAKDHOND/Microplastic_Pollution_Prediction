@@ -73,6 +73,3 @@ Go to:
 - Enter the required inputs.  
 - Click the **Predict** button to see the final result.  
 
----
-
-This keeps it **clean, structured, and easy to follow**. Let me know if you need any tweaks! 🚀😊
