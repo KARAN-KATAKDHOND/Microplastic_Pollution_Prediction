@@ -29,15 +29,3 @@ if st.button("Predict Microplastic Concentration"):
     prediction = model.predict(input_data)[0]
 
     st.success(f"Predicted Microplastic Concentration: {prediction:.2f} particles/L")
-
-#import pickle
-
-#file_path = "model.pkl"  # Change this to your file path
-
-#try:
- #   with open(file_path, "rb") as file:
-  #      model = pickle.load(file)
-   # print("Model loaded successfully!")
-#except Exception as e:
-  #  print(f"Error loading pickle file: {e}")
-#"""
