@@ -47,11 +47,32 @@ The dataset consists of ~5,000 records and includes:
 ## 💡 Conclusion
 The project successfully showcases how machine learning can be applied to environmental data to predict and analyze microplastic pollution. The outcomes can aid researchers, policymakers, and conservation efforts.
 
-## STEPS TO RUN PROJECT:
-1.install python and then requirements.txt\n
-2.using streamlite run app.py file \n
-3.app will run on localhost port 8502\n 
-4.after running open this link in browser:http://localhost:8502/\n
-5.after running app give required inputs and click predict button to see final result.\n
 
+## 🚀 How to Run the Project  
 
+## ✅ Step 1: Install Python and Required Libraries  
+Make sure you have Python installed, then install the dependencies:  
+```bash
+pip install -r requirements.txt
+```
+
+### ✅ Step 2: Run the Streamlit App  
+Execute the following command to start the app:  
+```bash
+streamlit run app.py
+```
+
+### ✅ Step 3: App will Run on Localhost Port 8502  
+Once the app starts, it will be available on **port 8502**.  
+
+### ✅ Step 4: Open the App in Your Browser  
+Go to:  
+👉 [http://localhost:8502/](http://localhost:8502/)  
+
+### ✅ Step 5: Use the App  
+- Enter the required inputs.  
+- Click the **Predict** button to see the final result.  
+
+---
+
+This keeps it **clean, structured, and easy to follow**. Let me know if you need any tweaks! 🚀😊
