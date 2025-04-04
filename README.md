@@ -47,4 +47,4 @@ The dataset consists of ~5,000 records and includes:
 ## 💡 Conclusion
 The project successfully showcases how machine learning can be applied to environmental data to predict and analyze microplastic pollution. The outcomes can aid researchers, policymakers, and conservation efforts.
 
-## 📁 Project Structure
+
